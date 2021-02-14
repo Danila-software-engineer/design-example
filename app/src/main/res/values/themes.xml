@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="Theme.DesignExample" parent="Theme.AppCompat.NoActionBar" />
+
+
+    <style name="text_under_round_buttons">
+        <item name="android:fontFamily">@font/markpro_bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+
+    <style name="fav_button">
+        <item name="android:background">@drawable/circale</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:elevation">3dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+</resources>
